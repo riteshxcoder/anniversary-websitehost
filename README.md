@@ -32,8 +32,8 @@ Follow these steps to run the project locally:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/riteshxcoder/
-cd anniversary-site
+git clone https://github.com/riteshxcoder/anniversary-websitehost.git
+cd anniversary-websitehost
 ```
 
 2. **Install dependencies**
