@@ -166,7 +166,7 @@ Me`
                 transition={{ delay: 1.5 }}
                 className="text-center mt-16 mb-8 text-pink-600"
               >
-                <p className="text-lg font-medium">Made with ❤️ by @anujbuilds</p>
+                <p className="text-lg font-medium">Made with ❤️ by @riteshcoder</p>
               </motion.footer>
             </motion.div>
           </>
